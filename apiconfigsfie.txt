@@ -1,0 +1,13 @@
+API Key = 18e9b8de36a47957445896b876c2b1e0
+
+API Read Access Token = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxOGU5YjhkZTM2YTQ3OTU3NDQ1ODk2Yjg3NmMyYjFlMCIsInN1YiI6IjY1YjYyMzQ1YjZjZmYxMDE3Y2Y3YjcwOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.kHKZulGI44sV9FmqBMM-FW8ZRRqivFbljpu13E6sA74
+
+Detail = https://api.themoviedb.org/3/movie/{movie_id}
+
+Now Playing = https://api.themoviedb.org/3/movie/now_playing
+
+Popular = https://api.themoviedb.org/3/movie/popular
+
+TopRated = https://api.themoviedb.org/3/movie/top_rated
+
+Upcoming = https://api.themoviedb.org/3/movie/upcoming
